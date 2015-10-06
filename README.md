@@ -1,4 +1,4 @@
-Thrift-Hbase
+Thrift-Hbase (This is Only for Training, don't use it for real)
 ============
 Connect Hbase with Thrift
 
