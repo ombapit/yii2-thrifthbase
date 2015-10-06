@@ -1,0 +1,21 @@
+{
+    "name": "ombapit/yii2-thrifthbase",
+    "description": "Connect Hbase with Thrift",
+    "type": "yii2-extension",
+    "keywords": ["thrift","hbase"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "David Suwandi",
+            "email": "davidsuwandi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ombapit\\thrifthbase\\": ""
+        }
+    }
+}
